@@ -1,4 +1,4 @@
-My name is Carlos Javier Díaz Falcón, I'm from Canary Islands (Spain) and I'm a Front End Developer specialized on React with TypeScript
+My name is Carlos, I'm from Canary Islands (Spain) and I'm a Front End Developer specialized on React with TypeScript
 
 I consider myself a self-taught person, hardworking, which learns and adapts quickly at the work enviroment; very perfectionist with my work, and always disposed to learn new knwowledge aswell to share the ones that I already know to other people.
 
