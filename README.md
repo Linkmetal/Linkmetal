@@ -4,6 +4,6 @@ I consider myself a self-taught person, hardworking, which learns and adapts qui
 
 ![Github Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linkmetal&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkmetal&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://ghstats.linkmetal.dev/api?username=linkmetal&count_private=true&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkmetal&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://ghstats.linkmetal.dev/api/top-langs/?username=linkmetal&count_private=true&show_icons=true&theme=radical&layout=compact)
